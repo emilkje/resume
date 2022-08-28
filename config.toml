@@ -1,0 +1,27 @@
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+enableEmoji = true
+
+theme = "resume"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://example.com/"
+title = "Emil Kjelsrud - CV"
+#googleAnalytics = ""
+
+[params]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#666"
+colorPageBackground = "#f0f0f0"
+colorPrimary = "#36baa2"
+colorSecondary = "#aaa"
+colorIconPrimary = "#fff"
+colorIconBackground = "#36baa2"
+colorRightColumnBackground = "#091A2D"
+colorRightColumnHeadingText = "#999"
+colorRightColumnBodyText = "#999"
+colorRightColumnIconPrimary = "#091A2D"
+colorRightColumnIconBackground = "#36baa2"
+pages = 1

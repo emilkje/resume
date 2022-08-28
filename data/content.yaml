@@ -1,0 +1,200 @@
+BasicInfo:
+  FirstName: Emil
+  LastName: Kjelsrud
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +47 48 22 67 65
+    - Icon: fas fa-envelope
+      Info: emilkje@gmail.com
+    - Icon: fas fa-map-marker-alt
+      Info: Oslo, Norge
+    - Icon: fa-brands fa-github
+      Info: github.com/emilkje
+    - Icon: fa-brands fa-linkedin
+      Info: linkedin.com/in/emilkje
+    - Icon: fas fa-globe
+      Info: kjels.no
+
+Profile: Lead Platform Engineer with many years of experience in building developer oriented tools, 
+  platforms and strategy in the IT/Managed Service Provider space. I've successfully lead multiple 
+  developer teams and arming them with the proper tools to deliver actual business value on 
+  private infrastructure and public clouds. Proficient with systems development, cloud native technology, 
+  security and governance. <br /><br />
+  
+  I love traveling with my girlfriend, hiking with my identical twin and treating myself and friends with some home made 
+  napolitan style pizza and a couple of craft beers. Known to shred some pretty cool riffs on the guitar.
+
+Experience:
+  - Employer: Intility AS
+    Place: Oslo, Norway
+    Positions:
+      - Title: Lead Platform Engineer
+        Date: Jan 2022 - Present
+        Details:
+          - In charge of the development of our Developer Experience Platform
+          - Developing organization wide cloud native GitOps and Infrastructure as Code platform
+          - Technical lead for our zero trust architecture securing our deployments and service runtime
+          - Academic Director on behalf of Intility for the IM3002 subject
+          - Implementing ISAE 3402 controls for multiple in-house systems
+        Badges:
+          - Kubernetes
+          - Backstage
+          - OPA
+          - Typescript
+          - UX
+          - DevOps
+          - Go
+          - GitOps
+          - Azure 
+          - Identity
+          - mTLS
+      - Title: Lead Developer
+        Date: Nov 2019 - Jan 2022
+        Details:
+          - Technical lead transitioning the monolith into smaller services and business domains
+          - Technical supervisor for multiple developer teams
+          - Lead engineer developing the system driving our event driven architecture
+          - Implemented automation solution for our Microsoft/Azure licensing and financing team
+          - Key Azure Identity engineer working with authentication and authorization
+          - Developing various line of business applications helping core business domain productivity
+        Badges:
+          - EventGrid
+          - ServiceBus
+          - AMQP
+          - API Management
+          - Architecture
+          - .NET
+          - MS Graph
+          - OIDC
+      - Title: Systems Developer
+        Date: Oct 2015 - Nov 2019
+        Details:
+          - Lead the transition from TFS/TFVS to Git/Azure DevOps
+          - Full stack developer for the in-house monolith
+          - Full stack developer for the customer portal and its integrations
+          - Requirements gathering and system specification
+        Badges:
+          - C#
+          - .NET
+          - Git
+          - Javascript
+          - CI/CD
+          - Azure DevOps
+  - Employer: Innit AS
+    Place: Hamar, Norway
+    Positions:
+      - Title: Developer
+        Date: Oct 2012 - Oct 2015
+        Details:
+          - Developing various sized business applications on wordpress
+          - Designed and developed the Sparebank1 Alliance Talent Portal
+          - Designed and developed off-shore education platform for the norwegian navy
+          - Contributed to the leading norwegian education platform for vocational subjects
+        Badges: ['PHP', 'HTML', 'SCSS', 'iOS', 'Android', 'Documentation', 'Data integrity']
+  - Employer: Norwegian Armed Forces
+    Place: Oslo, Norway
+    Positions:
+      - Title: Web developer and graphic designer
+        Date: Apr 2009 - Apr 2010
+        Details:
+          - Magazine design for the quarterly company issue
+          - Editorial and publishing workflow modernization
+        Badges: ['Adobe InDesign', 'Adobe Photoshop', 'HTML/CSS', 'Data processing']
+  - Employer: Lefdal Elektromarked
+    Place: Hamar, Norway
+    Positions:
+      - Title: Salesperson
+        Date: May 2008 - Jun 2010
+        Details:
+          - Working with various consumer electronics and white goods
+        Badges: ['Excel', 'Word', 'Powerpoint', 'Sales']
+
+Education:
+  - Course: BSc in Technology and Development
+    Place: NTNU, Gjøvik Norway
+    Date: 2010 - Nov 2013
+    Details: Specialised in system development and programming. <br />
+      Volunteered with development of the official edu website.
+  - Course: General sciences
+    Place: Hamar Katedralskole, Hamar Norway
+    Date: 2005 - 2008
+  - Course: High School
+    Place: Ajer ungdomsskole, Hamar Norway
+    Date: 2002 - 2005
+
+# References:
+#   - Name: Person One
+#     Relation: Co-worker at Super Cool Company
+#     Contacts:
+#     - Icon: fas fa-phone
+#       Info: +44 123 456 790
+#     - Icon: fas fa-envelope
+#       Info: contact@person-one.com
+#     - Icon: fas fa-map-marker-alt
+#       Info: Melbourne, Australia
+#   - Name: Person Two
+#     Relation: Boss at Super Cool Company
+#     Contacts:
+#     - Icon: fas fa-phone
+#       Info: +44 123 456 791
+#     - Icon: fas fa-envelope
+#       Info: contact@person-two.com
+#     - Icon: fas fa-map-marker-alt
+#       Info: Sydney, Australia
+
+Skills:
+  - Family: Programming
+    Items:
+      - C#/.NET
+      - Go
+      - Typescript
+      - Javascript
+      - Python
+      - Bash
+      - Java
+      - Elixir
+      - SQL
+      - HTML/CSS
+  - Family: Frameworks
+    Items:
+      - .NET
+      - Kubernetes Operator Framework
+      - Hugo
+      - React
+      - Nodejs
+      - Backstage
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - OpenShift
+      - Kubernetes
+      - Azure DevOps
+      - GitLab
+      - Elasticsearch
+      - ArgoCD
+      - Azure Identity Platform
+      - Azure API Management
+      - Azure AD
+  - Family: Misc
+    Items:
+      - Adobe Tools
+      - VSCode Extension development
+
+Languages:
+  - Name: Norwegian
+    Level: Native
+  - Name: English
+    Level: C1 / Advanced
+
+Diplomas:
+  - Certified Academic Director
+
+Interests:
+  - Cooking
+  - Hiking
+  - Gaming
+  - Playing music
+  - Headbanging
+  - Space
