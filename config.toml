@@ -6,7 +6,7 @@ enableEmoji = true
 theme = "resume"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "https://example.com/"
+baseURL = "https://emilkje.github.io/resume/"
 title = "Emil Kjelsrud - CV"
 #googleAnalytics = ""
 
