@@ -41,6 +41,9 @@ jobs:
         with:
           token: ${{ secrets.REPO_PAT }}
           submodules: recursive
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v2
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
